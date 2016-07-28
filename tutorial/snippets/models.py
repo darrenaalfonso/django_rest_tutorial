@@ -18,6 +18,8 @@ class Snippet(models.Model):
     linenos = models.BooleanField(default=False)
     language = models.CharField(choices=LANGUAGE_CHOICES, default='python', max_length=100)
     style = models.CharField(choices=STYLE_CHOICES, default='friendly', max_length=100)
+    # related_name='snippets' below is how the framework knows which user owns which snippets
+    # if you rename the related_name to something else, it breaks
     owner = models.ForeignKey('auth.User', related_name='snippets', default='1')
     highlighted = models.TextField(default=' ')
 
