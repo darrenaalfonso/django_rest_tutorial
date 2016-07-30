@@ -9,6 +9,7 @@ class SnippetSerializer(serializers.HyperlinkedModelSerializer):
 
     class Meta:
         model = Snippet
+        #these fields are what get returned by the API
         fields = ('url', 'pk', 'highlight', 'owner', 'title', 'code', 'linenos', 'language', 'style')
 
 
@@ -17,4 +18,5 @@ class UserSerializer(serializers.HyperlinkedModelSerializer):
 
     class Meta:
         model = User
+        #these fields are what get returned by the API
         fields = ('url', 'pk', 'username', 'snippets')
