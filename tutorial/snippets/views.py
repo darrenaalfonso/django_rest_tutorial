@@ -23,7 +23,7 @@ class SnippetViewSet(viewsets.ModelViewSet):
 
     Additionally we also provide an extra 'highlight' action.
     """
-    queryset = Snippet.object.all()
+    queryset = Snippet.objects.all()
     serializer_class = SnippetSerializer
     permission_classes = (permissions.IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly,)
 
