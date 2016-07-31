@@ -2,9 +2,179 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75791b1-092d-4cac-a8e0-ff2e3fdce9f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/pip-selfcheck.json" afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/snippets/urls.py" afterPath="$PROJECT_DIR$/tutorial/snippets/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/snippets/views.py" afterPath="$PROJECT_DIR$/tutorial/snippets/views.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/djangorestframework-3.3.3.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh-Hans/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh-Hans/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh-Hant/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh-Hant/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/jquery-1.11.3.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ach/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ach/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ar/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ar/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/be/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/be/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca_ES/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca_ES/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/cs/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/cs/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da_DK/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da_DK/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/de/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/de/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el_GR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el_GR/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_AU/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_AU/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_CA/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_CA/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_US/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_US/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/es/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/es/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/et/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/et/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa_IR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa_IR/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fi/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fi/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr_CA/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr_CA/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl_ES/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl_ES/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/he_IL/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/he_IL/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/hu/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/hu/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/it/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/it/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ja/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ja/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ko_KR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ko_KR/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/mk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/mk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nb/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nb/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nl/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nn/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nn/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/no/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/no/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pl/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_BR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_BR/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_PT/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_PT/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ro/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ro/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ru/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ru/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sv/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sv/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr_TR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr_TR/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/uk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/uk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/vi/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/vi/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_CN/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_CN/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_TW/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_TW/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/__init__.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authentication.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authentication.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authtoken/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authtoken/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authtoken/migrations/0002_auto_20160226_1747.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authtoken/migrations/0002_auto_20160226_1747.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authtoken/models.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/authtoken/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/compat.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/decorators.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/decorators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/exceptions.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/fields.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/fields.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/filters.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/filters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/generics.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/generics.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ach/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ach/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ar/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ar/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/be/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/be/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca_ES/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ca_ES/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/cs/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/cs/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da_DK/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/da_DK/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/de/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/de/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el_GR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/el_GR/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_AU/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_AU/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_CA/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_CA/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_US/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/en_US/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/es/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/es/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/et/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/et/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa_IR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fa_IR/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fi/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fi/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr_CA/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/fr_CA/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl_ES/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/gl_ES/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/he_IL/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/he_IL/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/hu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/hu/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/it/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/it/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ja/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ja/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ko_KR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ko_KR/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/mk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/mk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nb/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nb/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nl/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nn/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/nn/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/no/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/no/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pl/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_BR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_BR/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_PT/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/pt_PT/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ro/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ro/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ru/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/ru/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sv/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/sv/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr_TR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/tr_TR/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/uk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/uk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/vi/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/vi/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_CN/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_CN/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_TW/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/locale/zh_TW/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/metadata.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/metadata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/pagination.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/pagination.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/parsers.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/parsers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/permissions.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/permissions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/relations.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/relations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/renderers.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/renderers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/request.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/response.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/routers.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/routers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/serializers.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/serializers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/settings.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/ajax-form.js" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/ajax-form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/csrf.js" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/csrf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/default.js" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/static/rest_framework/js/default.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/status.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/status.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin/detail.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin/detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin/list.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin/list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin/list_value.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/admin/list_value.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/base.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/checkbox.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/checkbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/checkbox_multiple.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/checkbox_multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/input.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/input.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/radio.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/radio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/select.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/select.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/select_multiple.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/select_multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/textarea.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/horizontal/textarea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/raw_data_form.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/raw_data_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/checkbox.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/checkbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/checkbox_multiple.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/checkbox_multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/input.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/input.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/radio.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/radio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/select.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/select.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/select_multiple.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/select_multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/textarea.html" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/templates/rest_framework/vertical/textarea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/test.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/throttling.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/throttling.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/urlpatterns.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/urlpatterns.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/breadcrumbs.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/breadcrumbs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/encoders.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/encoders.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/field_mapping.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/field_mapping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/html.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/html.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/model_meta.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/model_meta.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/representation.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/representation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/serializer_helpers.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/utils/serializer_helpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/validators.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/validators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/versioning.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/versioning.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/views.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/viewsets.py" afterPath="$PROJECT_DIR$/env/lib/python3.5/site-packages/rest_framework/viewsets.py" />
     </list>
     <ignored path="Django_REST_Tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,56 +195,7 @@
     <favorites_list name="Django_REST_Tutorial" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/snippets/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/snippets/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/snippets/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tutorial/snippets/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,6 +218,7 @@
         <option value="$PROJECT_DIR$/tutorial/snippets/serializers.py" />
         <option value="$PROJECT_DIR$/tutorial/snippets/views.py" />
         <option value="$PROJECT_DIR$/tutorial/snippets/urls.py" />
+        <option value="$PROJECT_DIR$/tutorial/snippets/tests.py" />
       </list>
     </option>
   </component>
@@ -106,9 +228,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
     <option name="y" value="23" />
-    <option name="width" value="840" />
+    <option name="width" value="1680" />
     <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -137,7 +258,74 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snippets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django_REST_Tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
@@ -375,10 +563,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="840" y="23" width="840" height="985" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="985" extended-state="1" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0982906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23015873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -730,14 +918,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/snippets/migrations/0002_auto_20160721_0642.py" />
-    <entry file="file://$PROJECT_DIR$/tutorial/snippets/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -746,20 +926,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/snippets/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/env/lib/python3.5/site-packages/django/conf/urls/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
           <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/snippets/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -784,13 +962,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/snippets/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/snippets/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/snippets/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/snippets/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
